@@ -1,0 +1,58 @@
+.mern{
+   margin-top: 20px;
+   background-color: #2F3D46;
+   padding: 30px;
+   color: white;
+   font-size: 20px;
+   
+    
+}
+.fa {
+    display: flex;
+
+
+}
+
+section{
+    background-color:#CAD2C5 ;
+    height: 300vh;
+}
+
+.box-part{
+    background-color: #2F3D46;
+    margin-top: 30px;
+    height: 500px;
+    border-radius: 25px;
+}
+
+#site-search{
+    background-color: #2F3D46;
+    margin-top: 50px;
+    height: 20px;
+    
+   
+    padding : 20px 200px;
+    margin-left: 350px;
+    border-radius: 10px;
+
+}
+
+.box{
+    background-color: #2F3D46;
+    margin-top: 120px;
+     height: 150px;
+    margin-left: 50px;
+    border-radius: 25px;
+}
+
+.box3{
+    display: flex;
+    background-color: #2F3D46;
+    align-content: flex-start;
+    margin-left:550px;
+    height:200px;
+    border-radius: 20px;
+    margin-right: 100px;
+    
+    
+}
